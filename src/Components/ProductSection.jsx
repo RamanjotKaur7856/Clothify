@@ -59,7 +59,7 @@ const ProductSection = () => {
         <div>
             <div className="banner">
                 <video loop muted autoPlay>
-                    <source src="./images/banner.mp4" type="video/mp4" />
+                    <source src="./assets/banner.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="container1">

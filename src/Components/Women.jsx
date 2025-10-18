@@ -180,7 +180,7 @@ const Women = () => {
 
   return (
     <div>
-      <img src="images/womensectionbanner.jpeg" alt="Women's Section Banner" style={{ width: '100%' }} />
+      <img src="assets/womensectionbanner.jpeg" alt="Women's Section Banner" style={{ width: '100%' }} />
      <WomenLatestCollection/>
       <h2 style={{ fontSize: '50px', fontWeight: 'bold', textAlign: 'center', paddingTop: '20px' }}>
       Shop The Look

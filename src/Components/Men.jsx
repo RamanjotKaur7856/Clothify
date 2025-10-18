@@ -200,7 +200,7 @@ const Men = () => {
 
   return (
     <div>
-      <img src="../../images/mensectionbanner.png" alt="men's Section Banner" style={{ width: '100%' }} />
+      <img src="../../assets/mensectionbanner.png" alt="men's Section Banner" style={{ width: '100%' }} />
      <MenLatestCollection/>
       <h2 style={{ fontSize: '50px', fontWeight: 'bold', textAlign: 'center', paddingTop: '20px' }}>
       Shop The Look
